@@ -2,3 +2,6 @@
 
 Above is the code for Tic Tak Toe game for Human VS AI agent using multi agent search.
 Library used for GUI is Pygame, which is used for construction of TicTakToe Board.
+
+Human has its first turn as 'X'
+AI plays the next turn as 'O'
